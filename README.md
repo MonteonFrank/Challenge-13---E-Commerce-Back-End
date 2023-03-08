@@ -10,7 +10,7 @@
 <li>Migrations making it easy to madify the schema of our databases as our applicaiton evolves</li>
 <li>Association to establish relationships between tables in a database</li>
 
-  
+<p></p>
 <p>For this challenge, we had to create modals for Category, Product, Product Tag and Tags. In each one, we added different parameters, validations and primary keys to interelate them with each other. Since this challenge we were given a partial code, the Seeds, the Server.JS, and some components for the routes were provided to us. </p> 
   
 <p>Additional to SequilizeWe also used Dotenv to create a file to store the user, password and database name and use variables. This in order to upload our code and avoid other user to misuse our this information. </p>
