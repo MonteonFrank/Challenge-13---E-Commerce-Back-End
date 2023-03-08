@@ -47,3 +47,15 @@
 
 
 <h2><strong>Videos</strong></h2>
+<p></p>
+<p>Video of all GET Methods</p>
+[Challenge 13 All Get Methods.webm](https://user-images.githubusercontent.com/112662397/223614290-752c4e17-6e3d-40d9-a829-02f4433c12e9.webm)
+<p><p/>
+<p>Video of Category<p/>
+[Challenge 13 Category Get Post Delete Put.webm](https://user-images.githubusercontent.com/112662397/223614445-b6891149-3a4e-4cba-9bbd-71b4136750da.webm)
+<p><p/>
+<p>Video of Tags<p/>
+[Challenge 13 Tag Get Post Delete Put.webm](https://user-images.githubusercontent.com/112662397/223614492-5d62d3ae-7bba-480e-b6f2-611a56cbe6ff.webm)
+<p><p/>
+<p>Video of Products<p/>
+[Challenge 13 Product Get Post Delete Put.webm](https://user-images.githubusercontent.com/112662397/223614551-302005b5-04ca-47f1-8237-56dff55eacc4.webm)
